@@ -1,0 +1,24 @@
+{
+  "name": "two-servers",
+  "version": "1.0.0",
+  "description": "Decide which note you want to read which consists of two different servers",
+  "main": "server.js",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenrevans10/Two-Servers.git"
+  },
+  "author": "Darren Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenrevans10/Two-Servers/issues"
+  },
+  "homepage": "https://github.com/darrenrevans10/Two-Servers#readme"
+}
