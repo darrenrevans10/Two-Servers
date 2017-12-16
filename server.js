@@ -37,7 +37,7 @@ function note1() {
 
 	server1.listen(PORT1, function() {
 
-			console.log("Server listening on: http://localhost:" + PORT1);
+		console.log("Server listening on: http://localhost:" + PORT1);
 	});
 
 	function niceNote(request, response) {
@@ -61,4 +61,3 @@ function note2() {
 
 	};
 };
-
